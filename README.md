@@ -2,7 +2,7 @@
 
 This web application can be found at:
 
-rohith-s-wordle-beater.web.app
+[Wordle Beater](https://rohith-s-wordle-beater.web.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
